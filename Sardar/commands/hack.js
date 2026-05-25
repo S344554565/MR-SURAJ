@@ -4,7 +4,7 @@ const path = require("path");
 
 module.exports = {
   config: {
-    credits: "SARDAR RDX",
+    credits: "MR SURAJ",
     name: "hack",
     aliases: ["hk", "hacker"],
     description: "Kisi ka virtual 'hack' prank karo — fun only!",
