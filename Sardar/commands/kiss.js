@@ -24,7 +24,7 @@ module.exports = {
     name: "kiss",
     aliases: ["smooch", "muah", "pyar"],
     description: "Kisi ko pyar se kiss do — with anime gif!",
-    usage: "kiss [@mention / reply]",
+    usage: "kiss [ / reply]",
     category: "Fun",
     prefix: true,
     cooldowns: 5
