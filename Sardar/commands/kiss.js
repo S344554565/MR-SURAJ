@@ -20,7 +20,7 @@ const kissMsgs = [
 
 module.exports = {
   config: {
-    credits: "SARDAR RDX",
+    credits: "MR SURAJ",
     name: "kiss",
     aliases: ["smooch", "muah", "pyar"],
     description: "Kisi ko pyar se kiss do — with anime gif!",
@@ -43,7 +43,7 @@ module.exports = {
 
     if (!victimID) {
       return send.reply(
-        `╭─── « 💋 KISS COMMAND » ───⟡\n│\n│ ⚠️ Kisi ko tag karo ya\n│    uske message pe reply karo!\n│\n│ 💡 Usage: .kiss @naam\n│\n│ 💖 — SARDAR RDX BOT\n╰───────────────⟡`
+        `╭─── « 💋 KISS COMMAND » ───⟡\n│\n│ ⚠️ KANCHAN\n│    uske message pe reply karo!\n│\n│ 💡 Usage: .kiss @naam\n│\n│ 💖 — SARDAR RDX BOT\n╰───────────────⟡`
       );
     }
 
